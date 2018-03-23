@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:200|Source+Sans+Pro:200');
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #e5e7ea;
+	overflow-x: hidden;
+}
+
+#container{
+	width:80vw;
+	margin: 0 auto;
+	background-color: white;
+}
+
+ul {background-color: #000000;
+	width:100%;
+	height: 70px;
+}
+
+ul li {
+	float:right;
+	padding-right: 60px;
+	list-style-type: none;
+	line-height: 70px;
+	color:white;
+}
+
+#name {
+	float: left;
+	margin: 0 auto;
+	padding-left: 60px;
+	font-size: 50px;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+ul li a:hover {
+	color:white;
+	font-weight: bold;
+}
+
+ol li {
+	padding: 50px;
+	float: left;
+}
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: left;
+}
+
+h2 {
+	float: left;
+	margin: 0 auto;
+	padding-left: 100px;
+
+}
+h3 {
+	color:black;
+	font-style;
+	float: left;
+	line-height: 150px;
+}
+
+
+#sketch{
+	width: 80vw;
+	height: 50vh;
+	border: none;
+}
+
+div {
+	background-color: #f4bf42;
+	width:100%;
+	height: 400px;
+	text-align: center;
+	margin:0 auto;
+}
+
+div img {
+	width: 200px;
+}
+
+.colorpurple{
+	color:purple;
+	background-color: yellow;
+}
