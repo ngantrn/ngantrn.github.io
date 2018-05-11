@@ -1,7 +1,7 @@
 var systems;
 
 function setup() {
-  createCanvas(710, 400);
+  createCanvas(1250, 700);
   systems = [];
 }
 
