@@ -70,11 +70,11 @@ h3 {
 }
 
 #sketch{
-	width: 1000px;
-	height: 800px;
+	height: 100%;
+	width: 100%;
+	margin: 0;
 	border: none;
-	padding-top: 100px;
-	padding-right: center;
+	float: center;
 }
 
 div {
@@ -99,5 +99,5 @@ footer {
     color: white;
     background-color: black;
     clear: left;
-    text-align: left;
+    text-align: center;
  }
