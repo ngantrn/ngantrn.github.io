@@ -69,26 +69,26 @@ h3 {
 	line-height: 150px;
 }
 
-nav {
+ol {
     float: left;
-    max-width: 160px;
+    max-width: 80px;
     margin: 0;
     padding: 1em;
 }
 
-nav ul {
+ol {
     list-style-type: none;
     padding: 0;
 }
    
-nav ul a {
+ol {
     text-decoration: none;
 }
 
 
 #sketch{
-	width: 80vw;
-	height: 50vh;
+	width: 80px;
+	height: 50px;
 	border: none;
 }
 
