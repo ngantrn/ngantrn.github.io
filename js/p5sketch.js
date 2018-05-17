@@ -1,7 +1,8 @@
 var systems;
 
 function setup() {
-  createCanvas(1250, 700);
+  canvas=createCanvas (windowWidth,windowHeight);
+  //createCanvas(windowWidth,windowHeight)
   systems = [];
 }
 
